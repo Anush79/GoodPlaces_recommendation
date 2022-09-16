@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 18px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background: url("https://img.freepik.com/free-vector/watercolor-background-with-travel-doodles_79603-1831.jpg?w=2000");
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  background: #1f85debb;
+  padding: 20px;
+  width: 550px;
+  border-bottom-right-radius: 50px;
+  border-top-left-radius: 50px;
+  margin: auto;
+}
+
+button {
+  font-family: "Times New Roman", Times, serif;
+  width: 150px;
+}
+button:hover,
+button:focus {
+  transform: scale(0.9);
+  transition: 0.7s;
+  box-shadow: inset 0 -95px 0 0 #1f85de;
+  color: antiquewhite;
+}
+ul {
+  list-style: none;
+  padding: 20px;
+}
+li {
+  color: white;
+  background-color: #1f85debb;
+  display: flex;
+  height: 300px;
+  margin-bottom: 10px;
+}
+
+li .left div {
+  margin: 20px;
+}
+img {
+  margin: 30px;
+  margin-top: 12%;
+  border: 3px dashed white;
+  border-radius: 14px;
+  height: 200px;
+  width: 450px;
+}
+#rating {
+  padding: 10px;
+  margin: auto;
+  background: #e78d8d;
+  border-radius: 20px;
+  width: 100pt;
+}
