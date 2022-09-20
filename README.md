@@ -1,7 +1,7 @@
 # GoodPlaces_recommendation
 Created with CodeSandbox.
 
-Our India is full of incredible places to explore.
+Our India is full of incredible places to explore.In this website i have rated some places for vacation.
 This is a simple non-responsive website to recommend good places to visit during your vacation in India. 
 Please use Desktop view.
 Screenshot of the website
