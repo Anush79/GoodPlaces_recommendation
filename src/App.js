@@ -285,6 +285,13 @@ export default function App() {
           ))}
         </ul>
       </div>
+<footer>
+<a href='https://ajaisportfolio.netlify.app/contactme.html/'>
+        <button className="contact" style={{padding:"10px", background:"black",color:"white", fontSize:"20px"}}>
+            Contact Me
+        </button>
+    </a>
+</footer>
     </div>
   );
 }
